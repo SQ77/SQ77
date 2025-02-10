@@ -1,5 +1,7 @@
 # 💫 About Me:
-Year 2 Computer Science student at National University of Singapore (NUS)
+- Full Stack Developer with experience in React, Tailwind CSS, Firebase, PostgreSQL
+- Looking for Summer internships from May 2025 to August 2025
+- Year 2 Computer Science student at National University of Singapore (NUS)
 
 
 ## 🌐 Socials:
